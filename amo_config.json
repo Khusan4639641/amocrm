@@ -1,0 +1,14 @@
+{
+    "subdomain": "bahronovhusan77",
+    "clientId": "00d5cebf-ddd7-45c4-9fe5-9a99806525b9",
+    "clientSecret": "9AMfqi0f83WHq3D4urJoI45p9ZdjWybViIlnPR8Cax3c4xI1s1MBZXNnzsshmVJq",
+    "redirectUri": "https://paytest.uz/get_code.php",
+    "auth_code": "",
+    "refresh_token": "",
+    "access_token": "qZq8W51x0sAoI9Dqk7lkXUAOIpGP3VjT3vaHSyrBp3jxVIWlmZ5knVpAB0B3iSbu",
+    "update_date": "d-m-y H:i:s",
+    "db_host":"localhost",
+    "db_name":"Test",
+    "db_root":"root",
+    "db_pass":"secret"
+}
